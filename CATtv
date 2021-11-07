@@ -16,3 +16,5 @@ CATV
   https://cdn-02.fibracat.cat/fibracattv/index.m3u8
   #EXTINF:-1 ,8TV
   http://www.8tv.cat/
+ #EXTINF:-1 ,PELIS
+  D:\Users\abc\Videos\Miro\Pelis.xspf
